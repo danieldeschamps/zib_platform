@@ -1,0 +1,6 @@
+* Legenda:
+
+CR = '\r' = ctrl+enter
+LF = '\n'
+CR+LF = "\r\n" = enter
+0x1A = 

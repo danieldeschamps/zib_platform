@@ -1,0 +1,61 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ZiBManager - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\EDUARD~1\LOCALS~1\Temp\RSP904.tmp" with contents
+[
+kernel32.lib user32.lib advapi32.lib ws2_32.lib /nologo /incremental:yes /pdb:"Debug/ZiBManager.pdb" /debug /machine:I386 /out:"C:\ZiBManager\ZiBManager.exe" /pdbtype:sept 
+.\Debug\Main.obj
+.\Debug\ModemEricsson.obj
+.\Debug\Stdafx.obj
+.\Debug\SystemService.obj
+.\Debug\ZiBDb.obj
+.\Debug\ZiBGatewayComm.obj
+.\Debug\ZiBManager.obj
+.\Debug\ZiBManagerRegistry.obj
+.\Debug\_dpb.obj
+.\Debug\_ibpp.obj
+.\Debug\_ibs.obj
+.\Debug\_rb.obj
+.\Debug\_spb.obj
+.\Debug\_tpb.obj
+.\Debug\array.obj
+.\Debug\blob.obj
+.\Debug\database.obj
+.\Debug\date.obj
+.\Debug\dbkey.obj
+.\Debug\events.obj
+.\Debug\exception.obj
+.\Debug\row.obj
+.\Debug\service.obj
+.\Debug\statement.obj
+.\Debug\time.obj
+.\Debug\transaction.obj
+.\Debug\user.obj
+.\Debug\ATComm.obj
+.\Debug\Serial.obj
+.\Debug\SerialEx.obj
+.\Debug\CriticalSection.obj
+.\Debug\Debug.obj
+.\Debug\IbppTest.obj
+.\Debug\Modem.obj
+.\Debug\Pdu.obj
+.\Debug\PduConversion.obj
+.\Debug\Registry.obj
+.\Debug\FastSmtp.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\EDUARD~1\LOCALS~1\Temp\RSP904.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+ZiBManager.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
