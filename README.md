@@ -7,6 +7,8 @@ The gateway is responsible to store the data and provide a web service that host
 
 ![alt text](https://github.com/danieldeschamps/zib_platform/blob/main/ZiB%20Platform.jpg)
 
+![alt text](https://github.com/danieldeschamps/zib_platform/blob/main/ZiB%20DTP.jpg)
+
 # The Project
 It was developed as an initiative to seek for venture capital in order to start a tech company using IoT concept en early stages of the industry
 
